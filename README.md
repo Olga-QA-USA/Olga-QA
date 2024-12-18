@@ -1,6 +1,10 @@
-
 ```markdown
 # Olga-QA
+
+<div id="header" align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlhNHFyYmJpbmttZnN5bmg0aTNmMnI3a3ZwN3FidHM5dWNvc3lmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I1gO1FsTvdfDG/giphy.gif" width="150"/>
+  </div>
+
 
 <h1 align="center" style="font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-weight: bold;">Hi 👋, I'm Olha</h1>
 
@@ -13,7 +17,6 @@
 
 ### ✨ About Me
 
-- 🌱 I’m currently learning **Playwright**.
 - 🌟 I’m currently on my way to obtaining the **ISTQB Certificate**.
 - 🗢️ Ask me about **Cypress**, **API Testing**.
 - 📧 How to reach me: [olhadym.SQA@gmail.com](mailto:olhadym.SQA@gmail.com).
@@ -29,11 +32,11 @@
 
 ---
 
-### 🔄 Languages and Tools
+### 💻  Languages and Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
