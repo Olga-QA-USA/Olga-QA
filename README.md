@@ -34,27 +34,24 @@
 ### 💻  Languages and Tools
 
 <p>
+  <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://brandfetch.com/cypress.io?view=library&library=default&collection=logos&asset=idJT_qtr1C" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
 </p>
 
 ---
 
-### 💍 Links to Projects
+### 🔗 Links to Projects
 
 - [Personal Portfolio](https://yourpersonalportfolio.io) (Under Development)
 
 ---
 
 <p align="center" style="font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-weight: lighter;">
-  Thank you for visiting! Feel free to check out my repositories and connect with me.
+  Thank you for visiting! Feel free to connect with me.
 </p>
-```
